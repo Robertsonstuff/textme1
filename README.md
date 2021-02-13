@@ -1,4 +1,7 @@
 # textme1
+
+![what to expect](https://github.com/Robertsonstuff/textme1/blob/main/Screenshot_20210212_090609_com.google.android.apps.messaging.jpg)
+
 A simple affirmation app that sends a message to my phone repetitively every 15 seconds, Why!? because I can! ;)
 This has taken me a long time to get to a full working project actually working, I'm only new to my coding journey.
 This hasn't been simple or easy in anyway, but I'm hooked!
